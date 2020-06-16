@@ -1,9 +1,11 @@
 # firefox-custom-theme
 
-This is a dark theme taken from https://github.com/vinceliuice/Mojave-gtk-theme/tree/master/src/other/firefox and customized by me.
+This is a dark theme taken from https://github.com/vinceliuice/Mojave-gtk-theme/tree/master/src/other/firefox and customized by me. 
 
 Features added -
 
 * Removed toolbar + tabsbar from top
 * Add tree style tab without header
 * Make the theme more darker :)
+
+Screnshot (used in conjuction with https://www.gnome-look.org/p/1275087/ to get best outlook) -
